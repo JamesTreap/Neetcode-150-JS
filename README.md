@@ -4,4 +4,4 @@ Javascript solutions to various leetcode problems. Currently following the roadm
 
 ## Current Progress:
 
--   Arrays & Hashing: **3/9**
+-   Arrays & Hashing: **5/9**
