@@ -7,6 +7,7 @@ Javascript solutions to various leetcode problems.
 Challenges completed in the roadmap from https://neetcode.io/roadmap
 
 -   Arrays & Hashing: **5/9**
+-   Sliding Window: **1/5**
 
 ## Leetcode Numbers
 
