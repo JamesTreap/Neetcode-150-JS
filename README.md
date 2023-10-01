@@ -20,7 +20,9 @@ Challenges completed in the roadmap from https://neetcode.io/roadmap
 -   [20](Stack/ValidParentheses.js) - Valid Parentheses
 -   [28](Other/FindtheIndexofFirstOccurenceInaString.js) - Find the Index of the First Occurrence in a String
 -   [58](Other/LengthOfLastWord.js) - Length of Last Word
+-   [83](Other/RemoveDuplicatesfromSortedList.js) - Remove Duplicates from Sorted List
 -   [125](Two%20Pointers/ValidPalindrome.js) - Valid Palindrome
+-   [141](Other/LinkedListCycle.js) - Linked List Cycle
 -   [150](Stack/EvaluateReversePolishNotation.js) - Evaluate Reverse Polish Notation
 -   [151](Other/ReverseWordsinaString.js) - Reverse Words in a String
 -   [155](Stack/MinStack.js) - Min Stack
